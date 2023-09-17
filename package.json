@@ -42,6 +42,6 @@
     "solhint": "^1.1.8",
     "solidity-coverage": "^0.2.2",
     "truffle": "^4.0.0",
-    "truffle-hdwallet-provider": "0.0.3"
+    "truffle-hdwallet-provider": "1.0.17"
   }
 }
